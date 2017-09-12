@@ -1,0 +1,17 @@
+h1 { /* CSS tagname selector */
+    color: red;
+    font-family: Helvetica;
+    font-size: 36px;
+}
+section article h1 {
+    color: green;
+    font-size: 10px;
+}
+section h1 {
+    color: blue;
+    font-size: 14px;
+}
+
+
+
+
